@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
 </div>
-<h3 align="center">Expert in Attractive Design & Full steck Development.</h3>
+<h3 align="center">Expert in Security Analyst</h3>
 <table>
   <td>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
    
-- 🔭 I’m currently working on **Full Stack development**
-- 🌱 I’m currently learning **React** 
+- 🔭 I’m currently working on **Information Security Analyst**
+- 🌱 I’m currently learning **Ethical Hacking** 
 
-- 💬 Ask me about **UI/UX Design, Full stack development**
+- 💬 Ask me about **Security Tools, Network Security, Cryptography, Penetration Testing, Security Management, OSINT, Linux**
 
 - ⚡ Fun fact **I am an excellent cook**
 
@@ -45,29 +45,26 @@ Here are some ideas to get you started:
 
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://www.instagram.com/rs4655742/?hl=en"> 
+<a href="https://www.instagram.com/heart_in.ashes/"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="8250301143"> 
+<a href="8918515373"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<a href="rs4655742@gmail.com"> 
+<a href="arijitkuila2021@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://github.com/rahulsamanta82"> 
+<a href="https://github.com/arijitkuila2021"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
-<a href="https://x.com/rahulsamanta_82"> 
+<a href="https://x.com/Arijit12204675"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100049247760466"> 
+<a href="https://www.facebook.com/profile.php?id=100083505002669"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
-<a  href="https://www.linkedin.com/in/rahul-samanta-116572275/">
+<a  href="https://www.linkedin.com/in/arijit-kuila-28660323a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>
-<a href="https://codepen.io/Rahul-Samanta"> 
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
 <a href="#"> 
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
