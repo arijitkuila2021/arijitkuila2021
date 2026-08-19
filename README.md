@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://https://www.instagram.com/thenameis_arijit/"> 
+<a href="https://www.instagram.com/thenameis_arijit/"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 <a href="8918515373"> 
