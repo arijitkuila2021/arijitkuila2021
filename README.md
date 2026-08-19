@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
 </div>
-<h3 align="center">Expert in Security Analyst</h3>
+<h3 align="center">Expert in Penetration Testing</h3>
 <table>
   <td>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
