@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I am an excellent cook**
 
-- 🤗 Explore real-time weather updates with my Weather App: featuring a sleek design and user-friendly interface [**Weather App**](https://rahulsamanta82.github.io/Weather_app/)
+- Passionate about movies and cinema, with an interest in film analysis, storytelling, cinematography, and exploring different genres and styles of filmmaking.
 
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
   </td>
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/thenameis_arijit/"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="8918515373"> 
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://www.imdb.com/user/p.vmgougparbe4pygjybh3cq5qua?ref_=hm_nv_profile"> 
+    <img src="https://cdn.simpleicons.org/imdb" width="30" height="30" alt="IMDb"/>
 </a>
 <a href="arijitkuila2021@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
