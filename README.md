@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 <a href="https://www.imdb.com/user/p.vmgougparbe4pygjybh3cq5qua?ref_=hm_nv_profile"> 
-    <img src="https://cdn.simpleicons.org/imdb" width="30" height="30" alt="IMDb"/>
+    <img src="https://cdn.simpleicons.org/imdb" width="60" height="30" alt="IMDb"/>
 </a>
 <a href="arijitkuila2021@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
